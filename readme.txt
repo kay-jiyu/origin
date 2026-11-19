@@ -1,4 +1,6 @@
-My name is Jerrys BONOU, I'm 20 years old and I live in Djeffa
-I'm L2G3.
-I'm on Test's branch. 
+Je m'appelle Jerrys Bonou, j'ai 20 ans et j'habite à Djeffa.
+
+Je suis L2G3.
+
+Je suis sur la branche Test. 
 je suis sur  le dépôt distant.
